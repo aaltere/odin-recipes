@@ -5,7 +5,7 @@ html {
 body {
     background-color: #1d1d1d;
     color: #d1d1d1;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 h1 {
@@ -14,4 +14,9 @@ h1 {
 
 a {
     color: #d1d1d1;
+}
+
+img {
+    width: 300px;
+    height: auto;
 }
