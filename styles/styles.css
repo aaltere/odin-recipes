@@ -6,6 +6,8 @@ body {
     background-color: #1d1d1d;
     color: #d1d1d1;
     font-size: 20px;
+    width: 700px;
+    margin: 0 auto;
 }
 
 h1 {
