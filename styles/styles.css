@@ -3,8 +3,8 @@ html {
 }
 
 body {
-    background-color: #071e22;
-    color: #f4c095;
+    background-color: #c3acd0;
+    color: #7743db;
     font-size: 20px;
     width: 700px;
     margin: 0 auto;
@@ -15,7 +15,7 @@ h1 {
 }
 
 a {
-    color: #f4c095;
+    color: #7743db;
 }
 
 img {
@@ -26,12 +26,13 @@ img {
 }
 
 .content-image {
-    background-color: #1d7874;
+    background-color: #7743db;
+    margin: 10px;
 }
 
 .content-text {
-    background-color: #679289;
-    color: #ee2e31;
+    background-color: #f7efe5;
+    color: #7743db;
     padding: 10px;
     margin: 10px;
 }
