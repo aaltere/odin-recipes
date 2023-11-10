@@ -7,3 +7,4 @@ This project is for learning:
 - CSS format and selectors
 - How to apply CSS to HTML
 - Simple CSS rules
+- CSS box model
